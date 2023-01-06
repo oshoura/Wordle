@@ -1,4 +1,4 @@
-# Worlde Replica
+# Wordle Replica
 
 I wanted to challenge myself to make a Wordle Replica. I was still new to react and CSS and saw some learning opportunities. I made all my own components, CSS classes and animations. I had a lot of fun making it.
 
